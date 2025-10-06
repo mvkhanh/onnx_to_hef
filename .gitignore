@@ -1,2 +1,9 @@
 calib_set/
 model/
+*.ipynb
+agegender
+edgeface
+vrp
+hailo*
+*.sh
+*.log
